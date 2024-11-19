@@ -1,0 +1,65 @@
+.box{
+    margin: 50px;
+    border-radius: 10px;
+    background-color: #d5e88b;
+    box-shadow: 2px 3px 2px #d5e88b;
+    position: relative;
+    
+}
+.box-1{
+    margin-top: 0%;
+
+}
+
+h1{
+    background-image: url("nature2.jpg");
+    margin: 20px;
+    border-radius: 10px;
+    margin-bottom: 0%;
+    box-shadow: 0px 2px 3px #d5e88b;
+    top: 10%;
+    width: 80%;
+    margin-left: 30px;
+}
+#Me,#Ma{
+    float: right;
+}
+.box-2,.box-4{
+    clear: left;
+}
+.box-3,.box-5{
+    clear:right;
+}
+#Younger,#Papa,#Sis{
+    float:left;
+    
+}
+#Me,#Ma,#Younger,#Papa,#Sis{
+    border-radius: 5px;
+    margin: 20px;
+    margin-top: 3px;
+    overflow: hidden;
+}
+body{
+    border: 2px solid black;
+    border-radius: 15px;
+    border-style: double ;
+    margin: 50px;
+    background-image: url("nature3.png");
+}
+span{
+    background-color: aqua;
+    border-radius: 10px;
+    padding: 3px;
+    text-decoration:underline;
+    word-spacing: 2px;
+    letter-spacing: 1px;
+    text-shadow: 1px 1px 1px  black;
+    font-weight: bold;
+}
+.img{
+    float: right;
+    left: 90px;
+    margin-right: 40px;
+    margin-top: 5px;
+}
